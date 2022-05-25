@@ -1,3 +1,4 @@
+//this program counts the days from a date to another
 #include <iostream>
 
 using namespace std;
